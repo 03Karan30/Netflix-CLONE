@@ -1,4 +1,4 @@
-# Netflix  ![Netflix](https://github.com/03Karan30/Netflix-CLONE/assets/121372216/37182e2b-299a-4c3a-b277-f7a890e04530)
+![Netflix](https://github.com/03Karan30/Netflix-CLONE/assets/121372216/37182e2b-299a-4c3a-b277-f7a890e04530)
 
 
 Netflix Landing Page made using HTML & CSS.
